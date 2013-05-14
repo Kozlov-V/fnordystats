@@ -13,3 +13,5 @@ group :development do
   gem 'capistrano', :require=>false
   gem 'capistrano_colors'
 end
+
+gem 'jquery-rails'
